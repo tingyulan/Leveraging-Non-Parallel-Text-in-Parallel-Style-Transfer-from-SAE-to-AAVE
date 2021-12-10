@@ -17,3 +17,12 @@
 
 ## To run BERT-Score
 1. Please see [bert_score](https://github.com/Tiiiger/bert_score)
+
+## Baseline: BART and T5
+1. Add [this folder](https://drive.google.com/drive/folders/1BzAVyx6XSaOD-gC7ajay7qezBaBggZmU?usp=sharing)'s shortcut to your Google Drive home directory. It contains the original dataset, DOPE's dataset, training script as ipynb, and the checkpoint after our training.
+2. For BART as baseline please run baseline_BART.ipynb. Although we have the notebook in this repository, we recommend running it via Google Colab in the above folder.
+3. For T5 as baseline please run baseline_T5.ipynb. 
+
+## DOPE - T5
+1. Add [this folder](https://drive.google.com/drive/folders/1BzAVyx6XSaOD-gC7ajay7qezBaBggZmU?usp=sharing)'s shortcut to your Google Drive home directory. It contains the original dataset, DOPE's dataset, training script as ipynb, and the checkpoint after our training.
+2. Please run DOPE_T5.ipynb. We recommend running it via Google Colab. Although we have the notebook in this repository, we recommend running it via Google Colab in the above folder.
